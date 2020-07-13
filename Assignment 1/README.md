@@ -21,7 +21,7 @@ As the abstract data structure, and the possibilities for implementing it, have 
 ### Marking
 The assignment will be marked against three components: functionality, design and style.
 
-**Functionality** will be marked exclusively by the tests, and constitutes 50% of the total mark.
+**Functionality** constitutes 50% of the total mark and will be marked exclusively by the tests.
 
 **Design** constitutes 35% of the total mark. It does not depend on the functionality of your code. You may be asked questions by your tutor to help them test your understanding of your code. It will be marked qualitatively against the following rubric:
 
