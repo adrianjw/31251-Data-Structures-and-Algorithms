@@ -22,8 +22,8 @@ int main() {
 	g.add_edge("vertex_3", "vertex_5");
 	
 	std::cout << "Graph Matrix:\n";
-    std::cout << "Number of vertices: " << g.num_vertices() << "\n";
-    std::cout << "Number of edges: " << g.num_edges() << "\n\n";
+	std::cout << "Number of vertices: " << g.num_vertices() << "\n";
+	std::cout << "Number of edges: " << g.num_edges() << "\n\n";
 	g.print_adj_matrix();
     
 	std::cout << "Graph vertices:\n";
