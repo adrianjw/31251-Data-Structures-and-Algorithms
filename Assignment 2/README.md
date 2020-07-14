@@ -34,6 +34,8 @@ As mentioned in the overview, you are to implement six graph based algorithms. I
 This ordering may vary quite a bit, depending on how you approach the problems however, so take some time to think carefully how you will solve each one. As these are described in the lectures, I will not add additional clutter here about their function or details (but you can of course as questions).
 
 ### Marking
+The assignment will be marked against three components: functionality, design and style.
+
 **Functionality** constitutes 70% of the total mark and will be marked exclusively by the tests.
 
 **Design** constitutes 20% of the total mark. It does not depend on the functionality of your code. You may be asked questions by your tutor to help them test your understanding of your code. It will be marked qualitatively against the following rubric:
